@@ -2,4 +2,4 @@
 
 MOVIES=("court" "Hit3" "pushpa")
 
-echo "first movie: ${ALL MOVIES[3]}"
+echo "All movies: ${ALL MOVIES[@]}"
