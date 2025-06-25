@@ -8,3 +8,4 @@ TIMESTAMP=$(date)
 
 echo "script ececuted at: $TIMESTAMP"
 
+echo "$NUMBER1 sum of $NUMBER2" :$SUM
